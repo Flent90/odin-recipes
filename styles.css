@@ -1,0 +1,11 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+.quicklinks {
+    padding: 5px;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+}
